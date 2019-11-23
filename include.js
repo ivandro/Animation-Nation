@@ -1459,6 +1459,13 @@ let cards = [
 	imageLink: "./Art/Alara Joel/stealth ghost.png",
 	author: "Alara Joel",
 	githubLink: "https://github.com/stealthman22"
+},
+  {
+	artName: "Colorize Copy",
+	pageLink: "./Art/Ivandro/colorize.html",
+	imageLink: "./Art/Ivandro/Colorize.png",
+	author: "Ivandro",
+	githubLink: "https://github.com/Ivandro"
 }
 ];
 
